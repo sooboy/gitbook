@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [es6](es6.md)
+* [基础类型](README.md)
+* [类型断言](assert.md)
 

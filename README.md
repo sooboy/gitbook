@@ -20,6 +20,9 @@ let arr2 :Array<number> =[2,3,4]
 enum Color {Red,Green}
 
 let c:Color =Color.Green
+
+<!--任意类型-->
+let something:any 
 ```
 
 ## 编译后
